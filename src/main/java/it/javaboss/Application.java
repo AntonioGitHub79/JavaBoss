@@ -12,6 +12,8 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 public class Application extends SpringBootServletInitializer
 {
     public static void main( String[] args ) throws Exception {
+    	
+    	System.out.println("test");
         SpringApplication.run(Application.class, args);
     }
 }
