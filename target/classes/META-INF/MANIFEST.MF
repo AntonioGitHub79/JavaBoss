@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Asus
+Build-Jdk: 14.0.1
+Implementation-Title: javaboss-boot
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: it.javaboss
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://www.javaboss.it
+Created-By: Maven Integration for Eclipse
+

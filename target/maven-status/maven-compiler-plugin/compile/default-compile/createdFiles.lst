@@ -1,0 +1,10 @@
+it\javaboss\api\Message.class
+it\javaboss\web\EmployeeList.class
+it\javaboss\configuration\WebConfig.class
+it\javaboss\web\Employee.class
+it\javaboss\web\EmployeeService.class
+it\javaboss\web\EmployeeManagedBean.class
+it\javaboss\api\MessageController$1.class
+it\javaboss\configuration\JsfConfig.class
+it\javaboss\api\MessageController.class
+it\javaboss\Application.class
